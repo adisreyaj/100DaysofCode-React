@@ -20,3 +20,13 @@
 - Styled Components and Radium
 
 **Thoughts:** Angular have directives like `ngIf` and `ngFor` for conditional rendering and list iterations. In React its all JavaScript. Really getting the essence of React.
+
+### Day 3: May 10, 2020
+
+**Today's Progress**:
+
+- Breaking down application into components
+- Learned about component lifecycle
+- `useEffect()` hook
+
+**Thoughts:** There are fewer lifecycle hooks in react compared to Angular. Its a bit confusing at first, but definitely gonna put some effort into learning more about lifecycles and how it can be used in real world applications.
