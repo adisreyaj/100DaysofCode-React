@@ -30,3 +30,10 @@
 - `useEffect()` hook
 
 **Thoughts:** There are fewer lifecycle hooks in react compared to Angular. Its a bit confusing at first, but definitely gonna put some effort into learning more about lifecycles and how it can be used in real world applications.
+
+### Day 4: May 11, 2020
+
+**Today's Progress**:
+
+- Spend more time learning hooks
+- Tried making API call in `useEffect()` hook.
