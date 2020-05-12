@@ -37,3 +37,14 @@
 
 - Spend more time learning hooks
 - Tried making API call in `useEffect()` hook.
+
+### Day 5: May 13, 2020
+
+**Today's Progress**:
+
+- Spend more time on trying component lifecycle.
+- Learned about `PureComponents`.
+- Higher order componets.
+- More on setState using object and functions.
+- Using `prop-types` for type checking.
+- References
