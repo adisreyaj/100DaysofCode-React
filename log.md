@@ -38,7 +38,7 @@
 - Spend more time learning hooks
 - Tried making API call in `useEffect()` hook.
 
-### Day 5: May 13, 2020
+### Day 5: May 12, 2020
 
 **Today's Progress**:
 
@@ -48,3 +48,12 @@
 - More on setState using object and functions.
 - Using `prop-types` for type checking.
 - References
+
+### Day 6: May 13, 2020
+
+**Today's Progress**:
+
+- Started with React Native side by side.
+- Bootstrapped my first ever react native app.
+- Started using TSX(for native app)
+- Learned about Context APIs in react.
