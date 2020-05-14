@@ -57,3 +57,11 @@
 - Bootstrapped my first ever react native app.
 - Started using TSX(for native app)
 - Learned about Context APIs in react.
+
+### Day 7: May 14, 2020
+
+**Today's Progress**:
+
+- Started with TSX in react native.
+- Created multiple components like the Header, Movie Card, etc...
+- Familiarized with debugging React Native Code.
