@@ -65,3 +65,12 @@
 - Started with TSX in react native.
 - Created multiple components like the Header, Movie Card, etc...
 - Familiarized with debugging React Native Code.
+
+### Day 8: May 15, 2020
+
+**Today's Progress**:
+
+- Refresher on State management
+- Refresher on passing events across components
+
+**Thoughts:** Today was mostly going throught the core concepts once again to make sure I learn it thorough. Sometimes you have to slow down a little bit and look back.
