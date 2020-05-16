@@ -74,3 +74,14 @@
 - Refresher on passing events across components
 
 **Thoughts:** Today was mostly going throught the core concepts once again to make sure I learn it thorough. Sometimes you have to slow down a little bit and look back.
+
+### Day 9: May 16, 2020
+
+**Today's Progress**:
+
+- Routing in React using React Router package
+- More on calling APIs using Axios
+- More state management
+- Creating modular components
+
+**Thoughts:** Routing in Angular is separated into a separate module and I feel it is really good that way. In React, I don't know if there are ways to separate your whole routing strategy. But working with `react-router` package is so easy and convenient.
