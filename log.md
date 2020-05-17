@@ -85,3 +85,12 @@
 - Creating modular components
 
 **Thoughts:** Routing in Angular is separated into a separate module and I feel it is really good that way. In React, I don't know if there are ways to separate your whole routing strategy. But working with `react-router` package is so easy and convenient.
+
+### Day 10: May 17, 2020
+
+**Today's Progress**:
+
+- More on Routing (Switch, Programmatic Routing)
+- Lazy loading components (React Suspense)
+
+**Thoughts:** React suspense is really cool. I heard Suspense will support data fetching in future which I'm really excited for.
