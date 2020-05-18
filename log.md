@@ -94,3 +94,12 @@
 - Lazy loading components (React Suspense)
 
 **Thoughts:** React suspense is really cool. I heard Suspense will support data fetching in future which I'm really excited for.
+
+### Day 11: May 18, 2020
+
+**Today's Progress**:
+
+- Dealing with form
+- More on dealing data transfer between components
+
+**Thoughts:** Couldn't do much today compared to other days, but still happy with the progress
