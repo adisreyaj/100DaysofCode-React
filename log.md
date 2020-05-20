@@ -103,3 +103,23 @@
 - More on dealing data transfer between components
 
 **Thoughts:** Couldn't do much today compared to other days, but still happy with the progress
+
+### Day 12: May 19, 2020
+
+**Today's Progress**:
+- Started with the basics of Redux
+
+### Day 13: May 20, 2020
+
+**Today's Progress**:
+
+- Combining reducers
+- Storing API response into the store
+- Separating actions to separate file
+- Updating store
+- connect() method
+
+**Thoughts:**: Redux is awesome
+
+
+
