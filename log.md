@@ -121,5 +121,10 @@
 
 **Thoughts:**: Redux is awesome
 
+### Day 14: May 20, 2020
 
-
+**Today's Progress**:
+Implemented this genre filter: https://moovee.now.sh
+- Using setState and redux in correlation
+- Redux for storing genres
+- setState () for managing selected genres
