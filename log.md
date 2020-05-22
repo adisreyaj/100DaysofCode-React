@@ -128,3 +128,9 @@ Implemented this genre filter: https://moovee.now.sh
 - Using setState and redux in correlation
 - Redux for storing genres
 - setState () for managing selected genres
+
+### Day 15: May 21, 2020
+
+**Today's Progress**:
+- Layouting in React Native 
+- Playing around with Flex
