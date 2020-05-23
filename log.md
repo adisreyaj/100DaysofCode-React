@@ -134,3 +134,9 @@ Implemented this genre filter: https://moovee.now.sh
 **Today's Progress**:
 - Layouting in React Native 
 - Playing around with Flex
+
+### Day 16: May 21, 2020
+
+**Today's Progress**:
+- Creating components in React Native
+- Inter component communication
