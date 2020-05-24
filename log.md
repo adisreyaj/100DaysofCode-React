@@ -121,7 +121,7 @@
 
 **Thoughts:**: Redux is awesome
 
-### Day 14: May 20, 2020
+### Day 14: May 21, 2020
 
 **Today's Progress**:
 Implemented this genre filter: https://moovee.now.sh
@@ -129,14 +129,21 @@ Implemented this genre filter: https://moovee.now.sh
 - Redux for storing genres
 - setState () for managing selected genres
 
-### Day 15: May 21, 2020
+### Day 15: May 22, 2020
 
 **Today's Progress**:
 - Layouting in React Native 
 - Playing around with Flex
 
-### Day 16: May 21, 2020
+### Day 16: May 23, 2020
 
 **Today's Progress**:
 - Creating components in React Native
 - Inter component communication
+
+### Day 17: May 24, 2020
+
+**Today's Progress**:
+- Add search component in Moovee app
+- Sending input text for filtering results
+- Additional styling and use of Icons
