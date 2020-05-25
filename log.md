@@ -147,3 +147,10 @@ Implemented this genre filter: https://moovee.now.sh
 - Add search component in Moovee app
 - Sending input text for filtering results
 - Additional styling and use of Icons
+
+### Day 18: May 25, 2020
+
+**Today's Progress**:
+- Created a bottom navbar component in React Native
+- Started with Animation in React Native
+- More hands on `ScrollView` and `FlatList`
