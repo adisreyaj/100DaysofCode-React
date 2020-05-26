@@ -154,3 +154,9 @@ Implemented this genre filter: https://moovee.now.sh
 - Created a bottom navbar component in React Native
 - Started with Animation in React Native
 - More hands on `ScrollView` and `FlatList`
+
+### Day 19: May 25, 2020
+
+**Today's Progress**:
+- Added slide-in animation for the app Header and Bottom Navigation Bar.
+
