@@ -155,8 +155,15 @@ Implemented this genre filter: https://moovee.now.sh
 - Started with Animation in React Native
 - More hands on `ScrollView` and `FlatList`
 
-### Day 19: May 25, 2020
+### Day 19: May 26, 2020
 
 **Today's Progress**:
 - Added slide-in animation for the app Header and Bottom Navigation Bar.
+
+### Day 20: May 27, 2020
+
+**Today's Progress**:
+
+- Playing around with Animated in React Native. Tried timing(), sequence(), parallel() etc
+- Learned about responsive styling in React Native using Dimension API
 
