@@ -167,3 +167,10 @@ Implemented this genre filter: https://moovee.now.sh
 - Playing around with Animated in React Native. Tried timing(), sequence(), parallel() etc
 - Learned about responsive styling in React Native using Dimension API
 
+### Day 21: May 28, 2020
+
+**Today's Progress**:
+
+- Create a Movie Detail Page (WIP)
+- More on styling and creating components in React Native
+- Practicing animations in Expo Snack✨ 
