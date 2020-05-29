@@ -174,3 +174,11 @@ Implemented this genre filter: https://moovee.now.sh
 - Create a Movie Detail Page (WIP)
 - More on styling and creating components in React Native
 - Practicing animations in Expo Snack✨ 
+
+### Day 22: May 29, 2020
+
+**Today's Progress**:
+
+- Added animated heart button for favorites using the Animated API.
+- Imported Custom font using the Expo fonts package.
+- Played around with Statusbar component.
