@@ -182,3 +182,12 @@ Implemented this genre filter: https://moovee.now.sh
 - Added animated heart button for favorites using the Animated API.
 - Imported Custom font using the Expo fonts package.
 - Played around with Statusbar component.
+
+### Day 23: May 30, 2020
+
+**Today's Progress**:
+
+- Started with Navigation using React Navigation.
+- Worked with Stack and Bottom bar Navigation.
+- Worked with Gesture Handler.
+- More on Animations using Animated API
