@@ -188,3 +188,8 @@ Implemented this genre filter: https://moovee.now.sh
 **Today's Progress**:
 
 - Started with Redux in React Native
+### Day 25: Jun 3, 2020
+
+**Today's Progress**:
+
+- Configuring store, actions and reduces for Moovee App
