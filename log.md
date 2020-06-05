@@ -199,6 +199,13 @@ Implemented this genre filter: https://moovee.now.sh
 ### Day 26: Jun 4 , 2020
 
 **Today's Progress**:
+
 - Going in-depth with hooks in React
 - Advanced usage and best practices
 
+### Day 27: Jun 5 , 2020
+
+**Today's Progress**:
+
+- Continuation of my learning of React Hooks
+- Learned about use cases for useEffect(), useCallback() and useReduces() hooks.
