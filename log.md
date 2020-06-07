@@ -209,3 +209,12 @@ Implemented this genre filter: https://moovee.now.sh
 
 - Continuation of my learning of React Hooks
 - Learned about use cases for useEffect(), useCallback() and useReduces() hooks.
+
+### Day 27: Jun 7 , 2020
+
+**Today's Progress**:
+
+- Making API calls in RN using Fetch
+- Handling API data in store
+- Modification to Movie Details Page
+- Fiddling with React Navigation
