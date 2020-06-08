@@ -218,3 +218,11 @@ Implemented this genre filter: https://moovee.now.sh
 - Handling API data in store
 - Modification to Movie Details Page
 - Fiddling with React Navigation
+
+### Day 28: Jun 8 , 2020
+
+**Today's Progress**:
+
+- Creating More UI components
+- Relearning from the start
+- Going though React Navigation
