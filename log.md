@@ -226,3 +226,11 @@ Implemented this genre filter: https://moovee.now.sh
 - Creating More UI components
 - Relearning from the start
 - Going though React Navigation
+
+### Day 29: Jun 9 , 2020
+
+**Today's Progress**:
+
+Started with another sample app using React Native for revising everything I have learnt so far. 
+- Played around with styling multiple component
+- More hands on React Navigation
