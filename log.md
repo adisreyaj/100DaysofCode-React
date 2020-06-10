@@ -234,3 +234,10 @@ Implemented this genre filter: https://moovee.now.sh
 Started with another sample app using React Native for revising everything I have learnt so far. 
 - Played around with styling multiple component
 - More hands on React Navigation
+
+### Day 30: Jun 10 , 2020
+
+**Today's Progress**:
+- Continuing creating more UI component.
+- Playing around with more style properties.
+- Getting to learn more about FlatList
