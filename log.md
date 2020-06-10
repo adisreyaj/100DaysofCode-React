@@ -183,27 +183,27 @@ Implemented this genre filter: https://moovee.now.sh
 - Imported Custom font using the Expo fonts package.
 - Played around with Statusbar component.
 
-### Day 24: Jun 2, 2020
+### Day 23: Jun 2, 2020
 
 **Today's Progress**:
 
 - Started with Redux in React Native
 
-### Day 25: Jun 3, 2020
+### Day 24: Jun 3, 2020
 
 **Today's Progress**:
 
 - Configuring store, actions and reduces for Moovee App
 
 
-### Day 26: Jun 4 , 2020
+### Day 25: Jun 4 , 2020
 
 **Today's Progress**:
 
 - Going in-depth with hooks in React
 - Advanced usage and best practices
 
-### Day 27: Jun 5 , 2020
+### Day 26: Jun 5 , 2020
 
 **Today's Progress**:
 
