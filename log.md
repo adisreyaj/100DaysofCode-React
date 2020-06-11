@@ -241,3 +241,11 @@ Started with another sample app using React Native for revising everything I hav
 - Continuing creating more UI component.
 - Playing around with more style properties.
 - Getting to learn more about FlatList
+
+### Day 31: Jun 11 , 2020
+
+**Today's Progress**:
+
+- Continuing creating more UI component.
+- Playing around with Gradient component
+- Placing components on the view
