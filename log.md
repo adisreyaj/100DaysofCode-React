@@ -249,3 +249,10 @@ Started with another sample app using React Native for revising everything I hav
 - Continuing creating more UI component.
 - Playing around with Gradient component
 - Placing components on the view
+
+### Day 32: Jun 12 , 2020
+
+**Today's Progress**:
+
+- Creating reusable for component
+- Created the checkbox component
