@@ -256,3 +256,11 @@ Started with another sample app using React Native for revising everything I hav
 
 - Creating reusable for component
 - Created the checkbox component
+
+### Day 33: Jun 13 , 2020
+
+**Today's Progress**:
+
+Picked off from where I left yesterday with my forms
+- Created common validation functions
+- Adding UI elements to show the error message and icon.
