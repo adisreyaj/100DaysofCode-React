@@ -264,3 +264,12 @@ Started with another sample app using React Native for revising everything I hav
 Picked off from where I left yesterday with my forms
 - Created common validation functions
 - Adding UI elements to show the error message and icon.
+
+### Day 34: Jun 14 , 2020
+
+**Today's Progress**:
+
+- Connecting Form with Redux store
+- Learning about handling gestures and adding animations
+
+**Thoughts:** React Native Reanimated does give a lot of control, I feel the API is a bit verbose. Can't complain.
