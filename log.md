@@ -273,3 +273,11 @@ Picked off from where I left yesterday with my forms
 - Learning about handling gestures and adding animations
 
 **Thoughts:** React Native Reanimated does give a lot of control, I feel the API is a bit verbose. Can't complain.
+
+### Day 35: Jun 15 , 2020
+
+**Today's Progress**:
+
+- Worked on the settings UI for my sample app
+- More use of FlatList
+- Refactoring code
