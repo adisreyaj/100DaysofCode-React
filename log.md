@@ -281,3 +281,12 @@ Picked off from where I left yesterday with my forms
 - Worked on the settings UI for my sample app
 - More use of FlatList
 - Refactoring code
+
+### Day 36: Jun 16 , 2020
+
+**Today's Progress**:
+
+Continued working on my sample application.
+- Created this profile page UI
+- Worked with permissions and Image Picker in React Native using expo
+
