@@ -290,3 +290,12 @@ Continued working on my sample application.
 - Created this profile page UI
 - Worked with permissions and Image Picker in React Native using expo
 
+### Day 37: Jun 17 , 2020
+
+**Today's Progress**:
+
+Finished up one of my sample application
+- Started a new React Native app to continue learning
+- More on fetching data and rendering FlatLists.
+- Need to work on animations this time.
+
