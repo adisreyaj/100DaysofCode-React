@@ -299,3 +299,13 @@ Finished up one of my sample application
 - More on fetching data and rendering FlatLists.
 - Need to work on animations this time.
 
+### Day 38: Jun 18 , 2020
+
+**Today's Progress**:
+
+Started working on a new app Sparkles - a refresher on the React Native basics
+- Implementing Flatlists
+- Fetching Data
+- Managing state
+
+
