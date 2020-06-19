@@ -309,3 +309,10 @@ Started working on a new app Sparkles - a refresher on the React Native basics
 - Managing state
 
 
+### Day 39: Jun 19 , 2020
+
+**Today's Progress**:
+
+- Added on scroll animation in home page to hide menu and search icon on scrolling list.
+- More data fetching and manipulation
+- Router practicing
