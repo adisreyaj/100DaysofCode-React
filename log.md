@@ -316,3 +316,13 @@ Started working on a new app Sparkles - a refresher on the React Native basics
 - Added on scroll animation in home page to hide menu and search icon on scrolling list.
 - More data fetching and manipulation
 - Router practicing
+
+### Day 40: Jun 20 , 2020
+
+**Today's Progress**:
+
+- Created this Payment section 
+- The credit cards are made in purely in React Native & @expo
+ except for the logo and designs.
+ Preview: https://twitter.com/AdiSreyaj/status/1274412083510042624
+ 
