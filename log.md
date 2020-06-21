@@ -326,3 +326,12 @@ Started working on a new app Sparkles - a refresher on the React Native basics
  except for the logo and designs.
  Preview: https://twitter.com/AdiSreyaj/status/1274412083510042624
  
+ ### Day 41: Jun 21 , 2020
+
+**Today's Progress**:
+
+- Whole day was spent on leaning and implementing Animations 
+- Learned about Pan Gesture Handler
+- Familiarised with Reanimated and React Native Gesture Handler libraries.
+Preview:https://twitter.com/AdiSreyaj/status/1274751015535783936
+ 
