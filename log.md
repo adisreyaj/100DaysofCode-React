@@ -334,4 +334,12 @@ Started working on a new app Sparkles - a refresher on the React Native basics
 - Learned about Pan Gesture Handler
 - Familiarised with Reanimated and React Native Gesture Handler libraries.
 Preview:https://twitter.com/AdiSreyaj/status/1274751015535783936
+
+ ### Day 42: Jun 22 , 2020
+
+**Today's Progress**:
+
+Not much coding happened today 🙇‍♂️. 
+- Went through tuts on how to manage files in React Native 
+- Also about #SQLite database and how to store things locally.
  
