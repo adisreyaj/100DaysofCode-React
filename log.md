@@ -342,4 +342,11 @@ Preview:https://twitter.com/AdiSreyaj/status/1274751015535783936
 Not much coding happened today 🙇‍♂️. 
 - Went through tuts on how to manage files in React Native 
 - Also about #SQLite database and how to store things locally.
+
+ ### Day 43: Jun 23 , 2020
+ 
+ Creating more real-world UIs to familiarize with making components.
+
+**Today's Progress**:
+https://twitter.com/AdiSreyaj/status/1275459382382227464
  
