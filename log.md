@@ -345,8 +345,13 @@ Not much coding happened today 🙇‍♂️.
 
  ### Day 43: Jun 23 , 2020
  
- Creating more real-world UIs to familiarize with making components.
-
-**Today's Progress**:
-https://twitter.com/AdiSreyaj/status/1275459382382227464
+ **Today's Progress**:
  
+ Creating more real-world UIs to familiarize with making components.
+Preview: https://twitter.com/AdiSreyaj/status/1275459382382227464
+
+ ### Day 44: Jun 24 , 2020
+
+- Continued creating one more page for the Job Sample app made with React Native.
+- Spend a lot of time of Pan Gesture Handler to implement a omni directional scroll like UI
+ Preview: https://twitter.com/AdiSreyaj/status/1275854578622386177
