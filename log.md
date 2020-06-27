@@ -351,7 +351,37 @@ Not much coding happened today 🙇‍♂️.
 Preview: https://twitter.com/AdiSreyaj/status/1275459382382227464
 
  ### Day 44: Jun 24 , 2020
-
+ 
+ **Today's Progress**:
+ 
 - Continued creating one more page for the Job Sample app made with React Native.
 - Spend a lot of time of Pan Gesture Handler to implement a omni directional scroll like UI
  Preview: https://twitter.com/AdiSreyaj/status/1275854578622386177
+ 
+ 
+ ### Day 45: Jun 25 , 2020
+ 
+ **Today's Progress**:
+ 
+- Took on a different UI today. Hope you guys like it. 
+- Created mutliple components
+- Worked with Flatlist
+Preview: https://twitter.com/AdiSreyaj/status/1276190373765959682
+
+
+ ### Day 46: Jun 26 , 2020
+  
+ **Today's Progress**:
+   
+  - Tried out complex animation patterns
+  - Tried Staggered animation
+  Preview: https://twitter.com/AdiSreyaj/status/1276571643272245248
+  
+ ### Day 47: Jun 27 , 2020
+ 
+ **Today's Progress**:
+ 
+ - Started working on Expense manager application
+ - Created few components
+ - Added slide up animation
+ Preview: https://twitter.com/AdiSreyaj/status/1276928661002706944
