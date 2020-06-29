@@ -385,3 +385,17 @@ Preview: https://twitter.com/AdiSreyaj/status/1276190373765959682
  - Created few components
  - Added slide up animation
  Preview: https://twitter.com/AdiSreyaj/status/1276928661002706944
+ 
+  ### Day 48: Jun 28 , 2020
+ 
+ **Today's Progress**:
+ 
+ - Animated home page for Xpense App
+ Preview: https://twitter.com/AdiSreyaj/status/1277164291653685249
+ 
+  ### Day 49: Jun 29 , 2020
+ 
+ **Today's Progress**:
+ 
+ - Add profile page for Xpense App
+ Preview: https://twitter.com/AdiSreyaj/status/1277651547447455744
