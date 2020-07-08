@@ -399,3 +399,20 @@ Preview: https://twitter.com/AdiSreyaj/status/1276190373765959682
  
  - Add profile page for Xpense App
  Preview: https://twitter.com/AdiSreyaj/status/1277651547447455744
+ 
+  ### Day 50: Jun 30 , 2020
+ 
+ **Today's Progress**:
+ 
+ - Continued working on Xpense App
+ 
+   ### Day 51: Jul 08 , 2020
+ 
+ **Today's Progress**:
+ 
+ - Created the Categories Page
+ Preview: https://twitter.com/AdiSreyaj/status/1280914718413086720
+ 
+ 
+ 
+
