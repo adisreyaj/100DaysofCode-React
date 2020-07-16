@@ -413,6 +413,23 @@ Preview: https://twitter.com/AdiSreyaj/status/1276190373765959682
  - Created the Categories Page
  Preview: https://twitter.com/AdiSreyaj/status/1280914718413086720
  
+  ### Day 52 - 57: Jul 08 , 2020
  
+ **Today's Progress**:
+ Worked on Angular creating a boxed tree view component
+ - Recursive components
+ - Advanced css
+ - High charts
+ 
+ Preview: https://twitter.com/AdiSreyaj/status/1283079293669478401
+ 
+  ### Day 58 - 59: Jul 08 , 2020
+ 
+ **Today's Progress**:
+ Resumed work on the Xpense application.
+ Unified the icons across the whole application
+ - Made a common component for Category Icons
+ - Optimized the gestures in the home screen
+ - Built the apk of the application using expo
  
 
