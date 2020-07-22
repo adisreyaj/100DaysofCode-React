@@ -432,4 +432,11 @@ Preview: https://twitter.com/AdiSreyaj/status/1276190373765959682
  - Optimized the gestures in the home screen
  - Built the apk of the application using expo
  
+ 
+  ### Day 60 - 64: Jul 18 - 22 , 2020
+  
+  - Added Add Expense Page
+  - Added Animations for the Expense Page
+  - Added Login Page with animations
+  - Added Fingerprint based lockscreen
 
