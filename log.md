@@ -426,6 +426,7 @@ Preview: https://twitter.com/AdiSreyaj/status/1276190373765959682
   ### Day 58 - 59: Jul 08 , 2020
  
  **Today's Progress**:
+ 
  Resumed work on the Xpense application.
  Unified the icons across the whole application
  - Made a common component for Category Icons
@@ -435,8 +436,58 @@ Preview: https://twitter.com/AdiSreyaj/status/1276190373765959682
  
   ### Day 60 - 64: Jul 18 - 22 , 2020
   
+  **Today's Progress**:
+  
   - Added Add Expense Page
   - Added Animations for the Expense Page
   - Added Login Page with animations
   - Added Fingerprint based lockscreen
+  
+    ### Day 65 - 66: Jul 23 - 24 , 2020
+    
+    **Today's Progress**:
+    
+    Worked on Angular Highcharts and Flexmonster Pivot tables
+    
+    ### Day 67: Jul 24 , 2020
+    
+    **Today's Progress**:
+    
+   - Learned about AsyncStorage Floppy disk in #ReactNative.
+   - Added button to enable/disable Fingerprint Auth from settings.
+   
+   ### Day 68 - 69: Jul 25 - 26 , 2020
+   
+   **Today's Progress**:
+   
+   - Worked on my Webitto project which is a set of utilities Fork and knife for web devs.
+   - Worked on the WebP image converter part. Implemented the backend using @nestframework and #sharp for image processing.
+   
+   ### Day 70 - 71: Jul 27 - 28 , 2020
+    
+   **Today's Progress**:
+   
+   Worked on Angular Highcharts
+   
+   ### Day 72 - 74: Jul 29 - 31 , 2020
+    
+   **Today's Progress**:
+   
+   - Worked on personal website
+   - Checked out NextJs for creating the website
+   - Created the home page with basic content
+   
+   ### Day 75: Aug 1 , 2020
+    
+   **Today's Progress**:
+   
+   Worked on Xpense React Native app. 
+   
+   - Optimized the typography
+   - Made changes to make sure app works on smaller screen sizes also
+
+   
+   
+  
+  
 
