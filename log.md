@@ -486,7 +486,13 @@ Preview: https://twitter.com/AdiSreyaj/status/1276190373765959682
    - Optimized the typography
    - Made changes to make sure app works on smaller screen sizes also
 
-   
+   ### Day 76 - 80: Aug 7 , 2020
+    
+   **Today's Progress**:
+   - Gone through Advanced topics on Angular
+   - Worked on React Native for creating the Database functionality
+   - Worked with SQLite in React Native
+   - Created React Hooks for databse initialization
    
   
   
