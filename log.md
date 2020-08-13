@@ -494,6 +494,15 @@ Preview: https://twitter.com/AdiSreyaj/status/1276190373765959682
    - Worked with SQLite in React Native
    - Created React Hooks for databse initialization
    
+   ### Day 81 - 86: Aug 8 - 13 , 2020
+    
+   **Today's Progress**:
+   - Went through some more advanced topics in Angular
+   - Added some animations to the portfolio website
+   - Updated projects section in the portfolio website
+   - Revising some of the best practices for Angular and TypeScript
+   - Started with learning D3.js
+   
   
   
 
