@@ -503,6 +503,12 @@ Preview: https://twitter.com/AdiSreyaj/status/1276190373765959682
    - Revising some of the best practices for Angular and TypeScript
    - Started with learning D3.js
    
-  
+   ### Day 87 - 93: Aug 14 - 19 , 2020
+    
+   **Today's Progress**:
+   - Worked on advanced RxJS topics
+   - Learned about Intersection Observer API
+   - Created a Scroll Spy Angular Directive
+   - Worked on a custom Drag and Drop component using Angular CDK
   
 
