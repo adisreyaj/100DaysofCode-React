@@ -511,4 +511,11 @@ Preview: https://twitter.com/AdiSreyaj/status/1276190373765959682
    - Created a Scroll Spy Angular Directive
    - Worked on a custom Drag and Drop component using Angular CDK
   
-
+   ### Day 94 - 100: Aug 20 - 26 , 2020
+    
+   **Today's Progress**:
+   - Worked on the Drag and Drop component in Angular
+   - Explored StrapiJs for using as CMS for blog
+   - Exlpored Markdown and Nextjs blog implementation
+   - Worked on vanilla javascript tables
+   - Leared about Angular Control Value Accessor for creating custom form components
